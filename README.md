@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Silentium for Alacritty</h1>
+  <img alt="Preview" src="./preview.png" />
 </div>
 
 ## Usage
