@@ -5,13 +5,15 @@
 
 ## Usage
 
-1. Save [silentium.toml] to `~/.config/alacritty/` directory.
+1. Save [silentium.toml](silentium.toml) to `~/.config/alacritty/` directory.
 
 2. Import the theme in your Alacritty config:
+
 ```toml
 [general]
 import = ["silentium.nvim"]
 ```
 
 ## Compatibility
+
 - Alacritty ≥ 0.12 (TOML-based config)
